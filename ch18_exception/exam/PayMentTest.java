@@ -1,3 +1,5 @@
+package ch18_exception.exam;
+
 public class PayMentTest {
 
     // main() : 수정하지 마세요.

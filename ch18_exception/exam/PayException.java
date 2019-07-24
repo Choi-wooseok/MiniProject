@@ -1,3 +1,5 @@
+package ch18_exception.exam;
+
 public class PayException extends Exception {
     
     public PayException() {
